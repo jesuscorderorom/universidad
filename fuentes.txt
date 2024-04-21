@@ -1,0 +1,14 @@
+# Dot Density Map
+https://www.axismaps.com/guide/dot-density
+https://desktop.arcgis.com/es/arcmap/latest/map/projections/lambert-conformal-conic.htm#:~:text=La%20proyección%20cónica%20conforme%20de%20Lambert%20es%20una%20proyección%20cónica,circulares%20centrados%20en%20el%20polo.
+Datos: https://www.kaggle.com/datasets/joebeachcapital/school-shootings?select=school-shootings-data.csv
+
+# Alluvial Diagram
+https://datavizproject.com/data-type/alluvial-diagram/
+https://plotly.com/python/sankey-diagram/
+Datos: https://www.kaggle.com/datasets/prathamtripathi/drug-classification
+
+# Violin Plot
+https://www.atlassian.com/data/charts/violin-plot-complete-guide#:~:text=A%20violin%20plot%20depicts%20distributions,plot%2C%20to%20provide%20additional%20information.
+https://www.linkedin.com/advice/3/how-can-you-use-violin-plots-compare-data-across-groups-pgooc#:~:text=Violin%20plots%20have%20some%20drawbacks,the%20plot%20is%20too%20complex.
+Datos: https://www.kaggle.com/datasets/ibrahimonmars/global-cargo-ships-dataset
